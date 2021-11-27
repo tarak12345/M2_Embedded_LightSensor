@@ -2,7 +2,7 @@
 
 -Light sensors are a simple addition to ambulatory PSG providing objective and valid light data without adding significant complication or expense
 
-### NEED REQUIREMENTS
+## NEED REQUIREMENTS
 
 - 1  x  Arduino UNO
 
